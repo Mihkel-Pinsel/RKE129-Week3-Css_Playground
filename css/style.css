@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fira+Sans&display=swap');
+
+body{
+    background-color: rgb(245, 139, 0);
+}
+
+.heading{
+    text-align: center;
+}
+
+.Playground-heading{
+    color: darkcyan;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+
+.main{
+    border: 2px solid grey; width: 55%; margin: 1rem auto
+
+}
+
+.main div {
+    height: 200px; 
+    width: 200px; 
+    border: 1px solid black; 
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: rgb(235, 17, 243);
+}
+
+#blue {
+    border-color: rgb(0, 255, 42);
+}
+
+.footer{
+    color: blueviolet;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
